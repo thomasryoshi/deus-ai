@@ -1,8 +1,9 @@
 # Deus AI: A Suite for Solana Smart Contracts
 
-## Overview!
+## Overview
 
 <img width="217" alt="image" src="https://github.com/user-attachments/assets/51c31ddd-cb4b-4e5e-90b2-1862168d2649" />
+
 
 
 **Deus AI** is an AI-powered suite designed to streamline the creation, optimization, and deployment of smart contracts on the **Solana blockchain**. 
